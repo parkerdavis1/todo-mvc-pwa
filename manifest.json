@@ -1,0 +1,16 @@
+{
+    "name": "Simple Todos PWA",
+    "icons": [
+        {
+            "src": "icons/test3.png",
+            "type": "image/png",
+            "sizes": "any"
+        }
+    ],
+    "start_url": "index.html",
+    "display": "standalone",
+
+    "short_name": "Todos",
+    "background_color": "#123456",
+    "theme_color": "#ff0080"
+}
