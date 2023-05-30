@@ -2,7 +2,7 @@
     "name": "Simple Todos PWA",
     "icons": [
         {
-            "src": "icons/test3.png",
+            "src": "icons/test.png",
             "type": "image/png",
             "sizes": "any"
         }
